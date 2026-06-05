@@ -17,7 +17,7 @@
 
 ## 📖 为什么需要这个 SKILL？
 
-在使用 AI Vibe Coding 工具对 [BuildAdmin](https://wonderful-code.gitee.io/) 进行二次开发时，AI 模型经常因不了解框架内部规范而生成存在以下问题的代码：
+在使用 AI Vibe Coding 工具对 [BuildAdmin]([https://wonderful-code.gitee.io/](https://github.com/build-admin/buildadmin)) 进行二次开发时，AI 模型经常因不了解框架内部规范而生成存在以下问题的代码：
 
 | 问题 | 后果 |
 | :--- | :--- |
